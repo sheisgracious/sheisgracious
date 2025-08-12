@@ -1,34 +1,37 @@
 # 👋 Hi there! I'm Gracious!
 
-🎓 Computer Science major at Boston University, minoring in Hospitality Administration  
-🔧 QA Automation Intern @ Apple | Builder of human-centered tools  
-🎯 Passionate about testing systems, innovation, and creating tech with impact
+A little about me:
+- Computer Science major at Boston University, minoring in Hospitality Administration   
+- QA Automation Intern @ Apple 
+AI/ML Fellow @ Break Through Tech MIT
+- Interested in improving system quality, experience innovation, and inclusive technology
+Honarary mention: I have a passion for music!
 
 ---
 
-I’m a Computer Science student with experience in QA and Full Stack Development, focused on building reliable systems and contributing to collaborative, well-supported teams. I’ve worked on creating automated testing infrastructure, documenting processes for future developers, and navigating technical communication across diverse roles. Outside of tech, I love music and entrepreneurship. 
+I’ve worked on creating automated testing infrastructure including frameworks for accessibility testing, documenting processes for future developers, and navigating technical communication across diverse teams. I am currently also an AIML fellow at Break Through Tech MIT, delving into my interest and curiosity in machine learning models. Outside of tech, I'm a musician and entrepreneur. 
 
 ---
 
-## 🚀 Favorite Project: **Website for iWEP Group**
-Built a home website for my mother's women's group which I enjoyed.
+## Favorite Project: **Website for iWEP Group** 
+Built a full-stack website for my mother's women's group.
 **Tools:** Python, Flask, MongoDB, Docker  
 **Link:** [See it on GitHub](https://github.com/sheisgracious/iwep-website)
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-**Languages & Scripting:** Python, JavaScript, Swift  
+**Languages & Scripting: ** Python, JavaScript, Swift, HTML/CSS 
 **Tools:** Git, GitHub, Flask, Figma
 **Frameworks & Testing:** XCTest, REST APIs  
 **DevOps:** GitHub Actions, CLI tools  
 
 ---
 
-## ✨ Fun Facts 
+## Fun Facts 
 
-- ✈️ Big on travel- trying to visit each state
+- ✈️ Big on travel- in the process of visiting each state!
 - 🎶 Always coding to Afrobeat
 
 ---
