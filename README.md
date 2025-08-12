@@ -22,7 +22,7 @@ Built a full-stack website for my mother's women's group.
 
 ## Tech Stack
 
-**Languages & Scripting: ** Python, JavaScript, Swift, HTML/CSS 
+**Languages & Scripting:** Python, JavaScript, Swift, HTML/CSS 
 **Tools:** Git, GitHub, Flask, Figma
 **Frameworks & Testing:** XCTest, REST APIs  
 **DevOps:** GitHub Actions, CLI tools  
